@@ -12,6 +12,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # src folder
-./src/*
+src/
 
 report.html
